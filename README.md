@@ -17,5 +17,5 @@ CORE_IMAGE_EXTRA_INSTALL += " \
 ## Usage:
 Run from command prompt:
 ```
-# github-test`
+# github-test
 ```
